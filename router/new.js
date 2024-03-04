@@ -1,4 +1,4 @@
-var express = rquire('express')
+var express = require('express')
 var mysql = require('mysql')
 var news = express.Router()
 
